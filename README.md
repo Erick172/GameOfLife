@@ -5,12 +5,12 @@ This is an implementation of [Conway's Game of Life](https://en.wikipedia.org/wi
 ![Preview](/preview.gif?raw=true)
 
 ## Requirements
-<pre>
-$ pip -r requrements.txt
-</pre>
+
+`$ pip -r requrements.txt`
+
 * Python 2
-* numpy: pip install numpy
-* Pygame: `pip install pygame
+* numpy: `pip install numpy'
+* Pygame: `pip install pygame'
 
 Will not work in a headless environment.
 
@@ -18,6 +18,6 @@ Will not work in a headless environment.
 `$python GameOfLife.py`
 
 Controls:
-any key : stop and start
-right mouse click: Delete cell
-lef mouse click: Create cell
+* any key : stop and start 
+* right mouse click: Delete cell
+* lef mouse click: Create cell
