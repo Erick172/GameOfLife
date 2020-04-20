@@ -27,7 +27,7 @@ gameState = np.zeros((nxC, nyC))
 #Automata palo.
 gameState[5, 3] = 1
 gameState[5, 4] = 1
-gameState[5, 1] = 1
+gameState[5, 2] = 1
 
 #Automata Movil
 gameState[21, 21] = 1
